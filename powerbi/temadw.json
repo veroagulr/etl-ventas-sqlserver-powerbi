@@ -1,0 +1,72 @@
+{
+  "name": "VentasDW Oscuro Elegante",
+  "dataColors": [
+    "#D9A44A",
+    "#4F83CC",
+    "#7C8A9C",
+    "#C0524F",
+    "#5FA88A",
+    "#A98CC8",
+    "#B08968",
+    "#6E93A6"
+  ],
+  "background": "#14181F",
+  "foreground": "#E8E6E0",
+  "tableAccent": "#D9A44A",
+  "good": "#5FA88A",
+  "bad": "#C0524F",
+  "neutral": "#B08968",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#1C222B" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#2E3644" } }, "radius": 8 }
+        ],
+        "title": [
+          {
+            "fontSize": 16,
+            "fontColor": { "solid": { "color": "#E8E6E0" } },
+            "bold": true,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "subTitle": [
+          { "fontSize": 11, "fontColor": { "solid": { "color": "#8A93A0" } } }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          { "color": { "solid": { "color": "#D9A44A" } }, "fontSize": 36, "bold": true }
+        ],
+        "categoryLabels": [
+          { "color": { "solid": { "color": "#8A93A0" } }, "fontSize": 12 }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "categoryAxis": [
+          { "fontSize": 12, "color": { "solid": { "color": "#C7CCD3" } } }
+        ],
+        "valueAxis": [
+          { "fontSize": 11, "color": { "solid": { "color": "#8A93A0" } } }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "categoryAxis": [
+          { "fontSize": 12, "color": { "solid": { "color": "#C7CCD3" } } }
+        ],
+        "valueAxis": [
+          { "fontSize": 11, "color": { "solid": { "color": "#8A93A0" } } }
+        ]
+      }
+    }
+  }
+}
