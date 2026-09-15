@@ -5,7 +5,7 @@ INSERT INTO DimCliente (cliente_id, nombre, ciudad, segmento)
 SELECT cliente_id, nombre, ciudad, segmento
 FROM staging.clientes;
 GO
-
+ 
 INSERT INTO DimProducto (producto_id, nombre_producto, categoria, precio_valido)
 SELECT producto_id, nombre_producto, categoria, precio_valido
 FROM staging.productos;

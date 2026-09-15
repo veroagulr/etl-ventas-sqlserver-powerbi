@@ -21,7 +21,7 @@ GO
 
 CREATE TABLE DimFecha (
     fecha_key   INT PRIMARY KEY,      
-    fecha       DATE NOT NULL,
+    fecha       DATE NOT NULL, 
     anio        INT NOT NULL,
     mes         INT NOT NULL,
     nombre_mes  NVARCHAR(20) NOT NULL,
