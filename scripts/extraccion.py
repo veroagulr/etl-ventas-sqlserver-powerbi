@@ -7,4 +7,4 @@ def extraer_productos(ruta = "data/raw/productos.csv"):
     return pd.read_csv(ruta)
 
 def extraer_ventas(ruta = "data/raw/ventas.csv"):
-    return pd.read_csv(ruta)
+    return pd.read_csv(ruta) 

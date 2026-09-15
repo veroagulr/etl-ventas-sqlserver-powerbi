@@ -11,7 +11,7 @@ import pandas as pd
 def limpiar_clientes(df: pd.DataFrame) -> pd.DataFrame:
     filas_originales = len(df)
 
-    df = df.dropna(subset=["nombre"])
+    df = df.dropna(subset=["nombre"]) 
 
     df = df.drop_duplicates(subset=["cliente_id"], keep="first")
 

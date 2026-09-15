@@ -15,7 +15,7 @@ for cliente_id in range(1, N_Clientes+1):
         "cliente_id": cliente_id,
         "nombre": fake.name(),
         "ciudad": fake.city(),
-        "segmento": random.choice(segmentos),
+        "segmento": random.choice(segmentos), 
         "fecha_registro": fake.date_between(start_date="-3y", end_date="today")
 
     })
