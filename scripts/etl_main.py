@@ -28,18 +28,15 @@ def main():
     print("=== Iniciando pipeline ETL ===")
     engine = obtener_engine()
 
-    # --- EXTRACCIÓN ---
     df_clientes = extraer_clientes()
     df_productos = extraer_productos()
     df_ventas = extraer_ventas()
 
-    # --- LIMPIEZA ---
     df_clientes = limpiar_clientes(df_clientes)
     df_productos = limpiar_productos(df_productos)
     ids_clientes_validos = set(df_clientes["cliente_id"])
     df_ventas = limpiar_ventas(df_ventas, ids_clientes_validos)
 
-    # --- CARGA ---
     cargar_a_staging(engine, "clientes", df_clientes)
     cargar_a_staging(engine, "productos", df_productos)
     cargar_a_staging(engine, "ventas", df_ventas)

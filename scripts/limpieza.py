@@ -11,10 +11,8 @@ import pandas as pd
 def limpiar_clientes(df: pd.DataFrame) -> pd.DataFrame:
     filas_originales = len(df)
 
-    # Regla dura: nombre nulo -> se elimina (dato incompleto inaceptable)
     df = df.dropna(subset=["nombre"])
 
-    # Regla dura: cliente_id duplicado -> nos quedamos con la primera aparición
     df = df.drop_duplicates(subset=["cliente_id"], keep="first")
 
     print(f"[clientes] {filas_originales} -> {len(df)} filas "
@@ -23,7 +21,7 @@ def limpiar_clientes(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def limpiar_productos(df: pd.DataFrame) -> pd.DataFrame:
-    # Regla suave: precio negativo -> se marca, NO se elimina
+
     df["precio_valido"] = df["precio_unitario"] >= 0
     invalidos = (~df["precio_valido"]).sum()
 
@@ -34,13 +32,10 @@ def limpiar_productos(df: pd.DataFrame) -> pd.DataFrame:
 def limpiar_ventas(df: pd.DataFrame, ids_clientes_validos: set) -> pd.DataFrame:
     filas_originales = len(df)
 
-    # Regla dura: filas completamente duplicadas -> eliminar
     df = df.drop_duplicates()
 
-    # Regla dura: cliente_id que no existe en clientes limpios -> eliminar (huérfanas)
     df = df[df["cliente_id"].isin(ids_clientes_validos)]
 
-    # Regla suave: cantidad <= 0 -> se marca, NO se elimina
     df["cantidad_valida"] = df["cantidad"] > 0
     invalidas = (~df["cantidad_valida"]).sum()
 
