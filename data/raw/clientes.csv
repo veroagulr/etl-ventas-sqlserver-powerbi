@@ -1,0 +1,201 @@
+cliente_id,nombre,ciudad,segmento,fecha_registro
+1,Ángela Juana Villegas Valdivia,Nueva Afganistán,Corporativo,2026-06-09
+2,Ing. Rodrigo Véliz,Nueva Kenya,Retail,2026-06-22
+3,José Manuél Clemente Piña Alejandro,Nueva Países Bajos,Retail,2023-10-20
+4,Amelia Lozada Villaseñor,Nueva Túnez,Corporativo,2024-01-15
+5,Linda Violeta Cano Negrete,San Hernán de la Montaña,Mayorista,2024-11-04
+6,María José Nelly Tovar,Nueva Santo Tomé y Príncipe,Retail,2026-07-06
+7,Gloria Sauceda,San Concepción de la Montaña,Retail,2024-11-29
+8,Felix Arias Acosta,Vieja Eslovenia,Retail,2025-06-15
+9,Ing. Lucía Fierro,Nueva República Checa,Corporativo,2024-11-04
+10,Francisca Zoé Barraza,San Germán los altos,Retail,2026-04-02
+11,Leonel Zavala,Vieja Singapur,Corporativo,2026-08-05
+12,Virginia Loya Carrera,San Maximiliano de la Montaña,Corporativo,2024-10-08
+13,Ramiro Miguel Ángel Arevalo Bahena,Vieja Guinea Bissau,Corporativo,2024-08-03
+14,Srita. Irene León,Nueva Finlandia,Retail,2025-12-03
+15,Agustín Israel Herrera,San Silvano de la Montaña,Corporativo,2024-08-02
+16,Indira Velásquez,San Dalia de la Montaña,Mayorista,2024-10-11
+17,Sr. Teodoro Ulloa,San Elena los altos,Retail,2024-04-23
+18,Jaime Pascual Suárez Cavazos,Nueva Albania,Retail,2026-01-16
+19,Pascual Anaya,San Benjamín los altos,Retail,2025-02-28
+20,Ing. Roberto Palacios,San Leonor de la Montaña,Retail,2024-11-18
+21,Humberto Zamudio,San Fidel de la Montaña,Retail,2026-07-06
+22,Israel Jáquez Raya,San Leticia los bajos,Corporativo,2026-07-27
+23,Rosalia Ponce,San Agustín los bajos,Corporativo,2026-07-12
+24,Aurelio Cintrón,Nueva Côte d'Ivoire,Retail,2024-11-08
+25,Ramón Víctor Canales,Nueva Suecia,Corporativo,2025-05-26
+26,Abigail Zoé Ochoa Villalpando,Nueva Eslovenia,Retail,2025-07-25
+27,Ramiro Manuel Roybal,Nueva Papua Nueva Guinea,Corporativo,2024-12-04
+28,Sra. Esperanza Reynoso,Vieja República Checa,Corporativo,2024-03-09
+29,Sr. Hernán Navarro,Nueva Nauru,Corporativo,2024-05-29
+30,Luis Miguel Arriaga,Nueva República Popular Democrática de Corea,Corporativo,2024-02-02
+31,Renato Lorenzo Santiago,San Raquel de la Montaña,Mayorista,2024-09-07
+32,Dr. Bernabé Salinas,San Fabiola los bajos,Retail,2024-03-17
+33,Fidel Ordóñez Jurado,Vieja Etiopía,Mayorista,2024-08-06
+34,Paulina Ríos Apodaca,Vieja Tayikistán,Corporativo,2026-02-04
+35,,San Magdalena de la Montaña,Mayorista,2024-10-01
+36,Sr. Federico Laboy,San Dalia los altos,Retail,2025-03-15
+37,Srita. Socorro Muñoz,San Ofelia de la Montaña,Retail,2026-01-04
+38,Ing. Antonio Gaitán,San Wilfrido de la Montaña,Corporativo,2024-02-01
+39,Lic. Leticia Arguello,Nueva Armenia,Mayorista,2025-01-31
+40,Angélica Perea Negrón,San Luisa de la Montaña,Mayorista,2026-02-05
+41,,Vieja Timor-Leste,Mayorista,2025-01-02
+42,Patricia Mota,San Carla los altos,Retail,2025-09-27
+43,Blanca Riojas Barreto,San Alejandro los bajos,Retail,2024-10-28
+44,Dr. Adán Valle,San Óscar los bajos,Mayorista,2025-11-29
+45,Marisela Padrón Vaca,San Susana de la Montaña,Retail,2025-09-24
+46,Cristal Nava,Nueva Azerbaiyán,Retail,2026-04-28
+47,Rolando Francisco Javier Olvera Solís,Vieja Barbados,Mayorista,2026-02-05
+48,Sra. Irma Botello,Nueva Indonesia,Retail,2026-08-05
+49,Cecilia Toledo Valenzuela,San Enrique de la Montaña,Mayorista,2023-11-28
+50,Ing. Rodolfo Lomeli,San Rocío de la Montaña,Mayorista,2024-05-22
+51,Citlali Violeta Alba,San Leonardo de la Montaña,Corporativo,2023-09-16
+52,Verónica Gloria Ibarra Piña,San Liliana de la Montaña,Mayorista,2026-02-26
+53,Alejandra Ávila,Vieja India,Retail,2024-10-04
+54,Maximiliano Aguilar Vanegas,San Francisca los bajos,Corporativo,2025-09-07
+55,Esparta Sandoval,Nueva Australia,Mayorista,2025-08-09
+56,Dra. Leticia Tello,San Eric de la Montaña,Corporativo,2026-05-17
+57,Vicente Rangel Otero,Nueva Azerbaiyán,Retail,2025-03-05
+58,Ana Luisa Tejada,San Roberto los altos,Mayorista,2025-03-21
+59,,Nueva Nueva Zelandia,Retail,2025-04-04
+60,Isabela Muro,Vieja Ecuador,Corporativo,2025-09-02
+61,Aldo Valencia,San Renato los altos,Mayorista,2024-10-24
+62,Mitzy Aurora Garica Nieves,San Aldonza de la Montaña,Corporativo,2026-07-10
+63,Jaime Guevara,San Inés los altos,Corporativo,2024-12-15
+64,Ruby Florencia Collazo Lugo,Vieja Federación de Rusia,Mayorista,2025-03-13
+65,César Segura Curiel,San Mitzy de la Montaña,Corporativo,2024-12-03
+66,María Cristina Lemus,San Ana María los bajos,Retail,2024-04-28
+67,Lic. Salvador Olivera,San Alejandro los altos,Corporativo,2025-07-28
+68,Felix Serrano,San Cornelio de la Montaña,Retail,2026-02-06
+69,Esperanza Teresa Estévez Valle,San Octavio los altos,Retail,2025-12-08
+70,Óliver Octavio Borrego,Vieja Egipto,Corporativo,2025-02-06
+71,Marcela Mariana Zapata,San Silvano de la Montaña,Retail,2026-01-25
+72,Nancy Lara,Vieja Guinea Bissau,Mayorista,2026-06-28
+73,María Elena Clara Collado Nájera,San Delia de la Montaña,Retail,2025-01-21
+74,Gloria Rebeca Calvillo Olivo,San Georgina los altos,Retail,2023-10-28
+75,Jorge Luis Porras,Vieja Georgia,Retail,2023-11-30
+76,Darío Alfredo Peralta,San Gabino los bajos,Mayorista,2024-08-15
+77,Sr. Diego Zavala,San Zoé de la Montaña,Mayorista,2025-04-23
+78,Carlos Emiliano Olvera Arguello,San Helena de la Montaña,Mayorista,2026-03-08
+79,Srita. Delia Haro,San Liliana de la Montaña,Corporativo,2025-10-18
+80,Srita. Paulina de la Rosa,Nueva Argelia,Mayorista,2025-10-26
+81,José Eduardo Miguel Acevedo Espinoza,Nueva Mozambique,Retail,2025-07-14
+82,Lic. Antonio Guajardo,Vieja Uzbekistán,Mayorista,2026-06-28
+83,Nicolás Marcos Oquendo Garza,Nueva Vanuatu,Mayorista,2026-04-24
+84,Germán Jurado,Vieja Singapur,Retail,2025-03-18
+85,Cristian Samuel Nieto,San Mariana los altos,Corporativo,2024-01-17
+86,Israel Amador Mena Magaña,Vieja Pakistán,Mayorista,2024-04-07
+87,Ofelia Ornelas,San Adalberto los altos,Corporativo,2025-06-14
+88,Débora Rascón,Vieja Dinamarca,Corporativo,2025-11-28
+89,Juan Aranda,Nueva Guatemala,Corporativo,2026-04-19
+90,Evelio Cavazos,Nueva Burundi,Retail,2026-03-20
+91,Ing. Juan Carlos Mercado,Nueva Mauricio,Corporativo,2026-07-19
+92,Tania Rosales Fernández,San Hernán los altos,Corporativo,2024-09-11
+93,José Ballesteros,Vieja Australia,Retail,2024-02-21
+94,Leonel Madrigal Valdez,San Oswaldo los altos,Corporativo,2025-10-24
+95,Isaac Fierro,San Paola de la Montaña,Corporativo,2023-10-31
+96,Dra. Georgina Piña,Vieja Senegal,Retail,2025-06-14
+97,Virginia Moya Raya,San Hernán los bajos,Retail,2026-01-01
+98,Rufino Julio César Gollum de la Rosa,Vieja El Salvador,Mayorista,2025-09-21
+99,Dalia Almaraz,Vieja Guinea Bissau,Mayorista,2026-06-05
+100,Dolores Barbara Vela,San Emilio los bajos,Mayorista,2026-06-30
+101,Carlos Cordero,San Alvaro de la Montaña,Corporativo,2025-03-17
+102,Srita. Clara Apodaca,Vieja China,Corporativo,2025-04-20
+103,,San Eugenio de la Montaña,Corporativo,2025-09-07
+104,Ing. Rubén Orellana,Vieja Liechtenstein,Retail,2025-01-18
+105,Lic. Miguel Alonzo,Nueva Azerbaiyán,Corporativo,2024-03-09
+106,Lic. Diego Lozada,Vieja República de Corea,Mayorista,2023-10-03
+107,Tania Serrato Verduzco,Vieja Suiza,Retail,2025-10-21
+108,Luis Miguel Alvaro Pacheco,San Horacio los bajos,Retail,2025-10-24
+109,Estela Villalpando Espino,Vieja Chipre,Retail,2025-06-10
+110,Salma Luz Estrada Narváez,San Silvano los altos,Mayorista,2024-02-12
+111,Hugo Francisco Serna Miramontes,San Germán de la Montaña,Mayorista,2025-03-18
+112,Soledad Silvia Orta Monroy,San Adriana los bajos,Mayorista,2026-01-09
+113,José Eloy Berríos Alba,Vieja Gambia,Retail,2025-02-18
+114,Hernán Adalberto Morales Acosta,San Andrea de la Montaña,Retail,2024-08-05
+115,Miguel Ángel Rolando Romo Gaitán,San Aurora los altos,Corporativo,2024-06-08
+116,Ramón Bruno Barreto Linares,Vieja Ecuador,Corporativo,2024-08-04
+117,Maximiliano Leonardo Valles Sisneros,San Virginia los altos,Mayorista,2024-11-30
+118,Ing. Sergio Domínguez,San Marco Antonio los bajos,Retail,2025-08-17
+119,Daniel Wilfrido de la O,San Andrés los bajos,Corporativo,2025-08-26
+120,Elvia Munguía Zarate,Nueva Estados Unidos de América,Mayorista,2025-03-22
+121,Cornelio Javier Gallegos,San Salvador de la Montaña,Mayorista,2024-03-28
+122,Porfirio Soria Hernandes,San Marisol de la Montaña,Corporativo,2024-04-05
+123,María del Carmen Nayeli Manzanares Bustamante,San Carlos los bajos,Mayorista,2025-08-31
+124,Espartaco Solís Pérez,Vieja Saint Kitts y Nevis,Retail,2024-12-05
+125,Lic. Rodolfo Nevárez,San Nicolás de la Montaña,Mayorista,2026-05-08
+126,Homero Isaac Briseño Saucedo,San Concepción los altos,Retail,2024-07-01
+127,Víctor René Alemán,Nueva Granada,Retail,2024-04-20
+128,Santiago Olivares,San Julio César de la Montaña,Corporativo,2023-11-23
+129,Miguel Ángel Tomás Jasso,Nueva Países Bajos,Corporativo,2025-07-28
+130,Eva Caridad León,San Pablo de la Montaña,Corporativo,2024-05-23
+131,Sra. Alicia Elizondo,San Francisco Javier de la Montaña,Mayorista,2024-08-05
+132,Silvano Timoteo Roque Montenegro,San Victoria los altos,Corporativo,2024-02-27
+133,Mariana Abreu,San Iván los altos,Corporativo,2026-06-20
+134,Isaac Valdez,Nueva Mauricio,Mayorista,2025-04-30
+135,Ing. Mauro Porras,San Abraham los bajos,Corporativo,2026-07-10
+136,Francisco Javier Humberto Castillo Delgado,Vieja Cabo Verde,Mayorista,2024-03-05
+137,Diana Rosalia Mayorga,San Rodolfo los altos,Mayorista,2024-05-14
+138,Antonia Maestas Aranda,San Esteban los bajos,Retail,2026-03-02
+139,María del Carmen Terrazas,San Marisol de la Montaña,Retail,2025-02-02
+140,Wilfrido Claudio Báez Méndez,Nueva Djibouti,Corporativo,2024-08-14
+141,Lic. Augusto Aguayo,San Augusto de la Montaña,Mayorista,2025-05-21
+142,Anel Bustos Salinas,Nueva Namibia,Retail,2025-10-16
+143,Sessa Tirado,San Lucía de la Montaña,Retail,2024-08-03
+144,Alberto Ernesto Pantoja,San Raquel los bajos,Retail,2026-05-01
+145,Sra. Nelly Malave,Vieja Cabo Verde,Retail,2024-01-16
+146,Dra. Estela Ramírez,San Josefina los bajos,Corporativo,2025-07-10
+147,Socorro Fabiola Espinoza Arenas,Nueva Croacia,Retail,2025-07-27
+148,Sra. Marisela Amador,San Mitzy los bajos,Corporativo,2024-07-28
+149,Sra. Graciela Colunga,Nueva Indonesia,Mayorista,2025-04-03
+150,Dulce María Eugenia Bueno,San Vanesa de la Montaña,Corporativo,2024-07-19
+151,Dra. Soledad Paz,San Héctor los bajos,Retail,2024-05-16
+152,Aurora Arevalo,Vieja Maldivas,Mayorista,2026-02-22
+153,Rebeca Karla Terán Olivares,Nueva Turquía,Mayorista,2025-12-10
+154,Mitzy Casas Carranza,San Catalina los altos,Corporativo,2024-03-30
+155,Liliana Riojas Candelaria,Vieja Alemania,Mayorista,2024-05-12
+156,José Luis Oswaldo Valdivia Benavides,San Eva los bajos,Corporativo,2024-01-13
+157,Arcelia Blanca Rincón Muñoz,Nueva Italia,Mayorista,2023-12-29
+158,Miguel Robledo Llamas,Nueva Camboya,Corporativo,2025-04-08
+159,Ernesto Amador Casárez Vigil,Vieja Bosnia y Herzegovina,Retail,2024-03-12
+160,Ing. Hermelinda Caraballo,Nueva Libia,Corporativo,2025-10-18
+161,Ing. Concepción Saucedo,San Andrea de la Montaña,Corporativo,2025-02-21
+162,Caridad Villanueva,Vieja Nueva Zelandia,Retail,2026-09-12
+163,Sr. Luis Manuel Matos,Vieja Mauricio,Corporativo,2024-10-12
+164,Elisa Clara Jaimes Camacho,San Gabriel los bajos,Corporativo,2023-10-30
+165,Samuel Emiliano Tamayo,Vieja Sri Lanka,Mayorista,2025-09-22
+166,Lilia Ángela Leyva,Vieja España,Corporativo,2024-08-08
+167,Armando Valverde Acosta,Nueva Israel,Mayorista,2023-11-26
+168,Bianca Blanco,San Conchita los bajos,Retail,2025-11-22
+169,Citlali Mayorga,San Pedro los altos,Mayorista,2026-05-24
+170,Fernando Israel Cervántez Vela,San Amanda de la Montaña,Mayorista,2025-06-20
+171,Óliver Santacruz Melgar,San Marisol los altos,Retail,2026-05-09
+172,Sr. Ángel Palomo,San Juana los bajos,Mayorista,2024-03-27
+173,Dra. Clara Malave,San Asunción los altos,Retail,2023-11-15
+174,Jesús Tamez Esparza,Nueva Finlandia,Corporativo,2025-11-06
+175,Luisa Victoria Orosco Vaca,Vieja Chipre,Corporativo,2025-09-11
+176,Úrsula Laura Rosado Murillo,San Alfredo de la Montaña,Mayorista,2026-08-17
+177,Nicolás Zarate Reséndez,San Julia los altos,Corporativo,2025-06-10
+178,Dra. Josefina Pineda,Vieja Reino Unido de Gran Bretaña e Irlanda del Norte,Retail,2025-05-24
+179,Sergio Evelio Narváez Gil,Nueva Panamá,Corporativo,2025-03-12
+180,Caridad Valdez,San Victoria los bajos,Retail,2024-06-05
+181,Abelardo Díaz,San Violeta los altos,Corporativo,2024-05-28
+182,Reina Suárez,San Fidel de la Montaña,Mayorista,2025-07-06
+183,Alvaro Rodríquez Ayala,San Hugo de la Montaña,Corporativo,2024-05-24
+184,Lic. Jorge Luis Manzanares,Vieja República Unida de Tanzanía,Corporativo,2026-02-10
+185,,San Genaro los bajos,Corporativo,2024-08-04
+186,Héctor Amador Pulido,Vieja Belarús,Retail,2026-03-11
+187,Esther Villanueva,Vieja Namibia,Retail,2026-05-01
+188,Sr. René Núñez,Nueva Santa Lucía,Mayorista,2025-02-03
+189,Gabino Olivas,San Magdalena de la Montaña,Retail,2025-08-24
+190,Omar Jaime Olivera Llamas,San Rosario los altos,Corporativo,2024-10-04
+191,Cristian Santillán Arce,San Esparta los altos,Corporativo,2025-07-25
+192,Alberto Bernal,Vieja Turquía,Retail,2026-04-09
+193,Ing. Julia Treviño,Nueva Turquía,Corporativo,2025-08-22
+194,Mariano Alfredo Alonzo,Nueva Congo,Mayorista,2025-06-24
+195,Josefina Páez,San Elisa de la Montaña,Mayorista,2024-02-14
+196,Abigail Minerva Ríos Garrido,Vieja Suriname,Retail,2024-05-08
+197,Ing. Francisco Limón,Nueva Zimbabwe,Retail,2026-04-29
+198,Raúl Gilberto Guillen,San Andrés los bajos,Mayorista,2023-09-23
+199,Adalberto Leal Aparicio,San Cristina los altos,Mayorista,2026-03-02
+200,Cristal Niño Casanova,Vieja Noruega,Retail,2024-02-10
