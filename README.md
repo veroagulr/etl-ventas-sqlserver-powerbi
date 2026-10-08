@@ -88,4 +88,4 @@ Los logs de cada ejecución quedan en `logs/`.
 
 ## Autora
 
-Veronica Aguilar
+Veronica Aguilar · [GitHub](https://github.com/veroagulr) · [LinkedIn](https://www.linkedin.com/in/veronica-aguilar-mendoza-37a2a92a6)
